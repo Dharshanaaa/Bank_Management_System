@@ -1,7 +1,7 @@
 
 # Loan Management System
 
-###Description
+### Description
 
 The Loan Management System is a full-stack web application designed to streamline loan processing, tracking, and management. It provides a user-friendly interface for borrowers and administrators to handle loan applications and payments efficiently.
 ## Setup Instructions
