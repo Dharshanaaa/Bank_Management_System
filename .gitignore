@@ -1,0 +1,38 @@
+# General
+*.log
+*.sqlite3
+.DS_Store
+
+# Virtual Environment
+venv/
+.env
+
+# Python Specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django Specific
+db.sqlite3
+/media/
+/static/
+/local_settings.py
+
+# Node.js / React Specific
+node_modules/
+*.lock
+yarn-error.log
+npm-debug.log
+
+# Build / Generated Files
+build/
+dist/
+coverage/
+.next/
+
+# Editor/IDE Specific
+.vscode/
+.idea/
+*.swp
+*.swo
